@@ -1,9 +1,9 @@
-#Performance Testing with Apache JMeter
+###Performance Testing with Apache JMeter
 
 This project demonstrates performance testing on the Restful Booker API
  using Apache JMeter.
 It includes load testing, stress testing, and report generation.
-#What I Have Done
+###What I Have Done
 
 Created a JMeter test plan (booking.jmx) to test the following flow:
 
@@ -57,8 +57,7 @@ Git
 
 Clone the Repository
 
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/Tama10-10/Performance-testing-using-Jmeter.git
 
 
 Open the Test Plan in JMeter
