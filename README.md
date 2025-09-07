@@ -93,4 +93,6 @@ Open booking-api-test-report.xlsx to view Load Test and Stress Test results.
 
 🔹 Stress Test Report
 
+<img width="1104" height="313" alt="Screenshot 2025-09-08 002955" src="https://github.com/user-attachments/assets/a099a81b-3648-4caf-be51-c38d4cd214f4" />
+
 🔹 JMeter Statistics
