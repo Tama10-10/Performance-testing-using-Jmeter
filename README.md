@@ -88,6 +88,7 @@ Open booking-api-test-report.xlsx to view Load Test and Stress Test results.
 
 📊 Screenshots
 🔹 Load Test Report
+<img width="56" height="107" alt="Screenshot 2025-09-06 222508" src="https://github.com/user-attachments/assets/53d8cbd4-2c06-4f88-98b2-0e0b045f48ab" />
 
 🔹 Stress Test Report
 
